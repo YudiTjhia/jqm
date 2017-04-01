@@ -6,10 +6,6 @@ var obj = {
 	
 	say_my_name : function() {
 		alert('Yudi');
-	},
-
-	say_hello : function() {
-		alert('hello!');
 	}
 
 }
